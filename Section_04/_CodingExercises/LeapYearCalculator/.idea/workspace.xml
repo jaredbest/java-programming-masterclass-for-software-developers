@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c48fee3-2506-468f-8a4c-7ba92743d20c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KeywordsAndExpressions/KeywordsAndExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Methods/src/com/jaredbest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeapYearCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1pCZrkb43CxlUai8WLGGq85xsKV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeapYearCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c48fee3-2506-468f-8a4c-7ba92743d20c" name="Default Changelist" comment="" />
+      <created>1614689235541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614689235541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
