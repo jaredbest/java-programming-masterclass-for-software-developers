@@ -1,6 +1,6 @@
 # Course Repo
 
 - **Title:** Java Programming Masterclass for Software Developers
-- **Taught by:** Tim Buchalka
+- **Instructor:** Tim Buchalka
 - **Platform:** Udemy
 - **Note(s):**
